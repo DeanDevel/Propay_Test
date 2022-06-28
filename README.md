@@ -6,8 +6,7 @@ A web-based system where a user can log in and out of the system to manage peopl
 * Mailtrap
 
 # Instructions
-Create Database "first" via Mysql Workbench -- 
-Called - laravelpropay -- change details in .env
+Create Database - laravelpropay -- change details in .env
 
 - **root@comp %** ```composer install```
 - **root@comp %** ```php artisan migrate --seed```
